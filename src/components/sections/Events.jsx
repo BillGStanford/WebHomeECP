@@ -5,8 +5,8 @@ import Card from '../../ui/Card';
 const Events = () => {
   const events = [
     {
-      date: 'N/A',
-      title: 'None',
+      date: 'November 15, 2024',
+      title: 'National Party Conference | Online',
       location: 'Addis Ababa'
     },
   ];
