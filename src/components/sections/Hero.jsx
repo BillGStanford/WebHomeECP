@@ -7,6 +7,10 @@ const Hero = () => {
     document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' });
   };
 
+  const goToPartyGazette = () => {
+    window.open('https://peoples-gazette.vercel.app/', '_blank'); // Replace with the actual link
+  };
+
   return (
     <section className="pt-16 bg-red-700 text-white min-h-screen flex items-center">
       <div className="max-w-6xl mx-auto px-4 py-20 text-center">
@@ -22,6 +26,13 @@ const Hero = () => {
           className="inline-flex items-center gap-2"
         >
           Learn More <ChevronDown className="h-5 w-5" />
+        </Button>
+        <Button 
+          variant="red"
+          onClick={goToPartyGazette}
+          className="mt-4 inline-flex items-center gap-2"
+        >
+          Party Gazette
         </Button>
       </div>
     </section>
