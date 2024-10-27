@@ -8,6 +8,11 @@ const Footer = () => {
         <p className="text-sm">
           © {new Date().getFullYear()} Communist Party of Ethiopia. All rights reserved.
         </p>
+        <p className="text-sm">
+          <a href="https://x.com/ECPMain" target="_blank" rel="noopener noreferrer" className="text-white underline">
+            Follow us on X
+          </a>
+        </p>
       </div>
     </footer>
   );
