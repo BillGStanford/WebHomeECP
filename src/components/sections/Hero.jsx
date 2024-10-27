@@ -20,6 +20,10 @@ const Hero = () => {
         <p className="text-xl md:text-2xl mb-8 animate-slide-up">
           For the People, By the People
         </p>
+        <p className="text-xl md:text-2xl mb-8 animate-slide-up font-bold italic">
+  USE <span className="font-extrabold italic">#EthiopianCommunistParty</span> on X
+</p>
+
         <Button 
           variant="white"
           onClick={scrollToAbout}
