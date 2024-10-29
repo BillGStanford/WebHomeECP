@@ -23,6 +23,10 @@ const Principles = () => {
       title: 'Marxism with Ethiopian Characteristics',
       text: 'Fit Marxism into Ethiopia. Make sure we make something truly for us and not against us'
     },
+    
+      title: 'A Government of the People for the People. ',
+      text: 'Introduce and give power to the Masses. The State shall be by the people for the People.'
+    },
   ];
 
   return (
