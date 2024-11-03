@@ -5,7 +5,7 @@ import Card from '../../ui/Card';
 const Initiatives = () => {
   const initiatives = [
     {
-      title: 'Growing with the Mass',
+      title: 'Join the Party',
       description: 'The current goal is getting members of the Ethiopian Society and Diaspora to join the Movement for Change. Fill Out membership Form',
       link: 'https://docs.google.com/document/d/1bFBC0WhVWUNSbG5DAyG81Lmz-YPRo_Wqekq_mJmojSs/edit?usp=sharing' // Add the link for this initiative
     },
