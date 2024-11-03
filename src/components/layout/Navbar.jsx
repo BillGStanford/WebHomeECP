@@ -42,6 +42,15 @@ const Navbar = () => {
                 {item}
               </button>
             ))}
+            {/* Add the external link for Journal */}
+            <a
+              href="https://communist-party-portal.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-2 hover:bg-red-600 rounded transition-colors"
+            >
+              Journal
+            </a>
           </div>
         </div>
 
@@ -56,6 +65,15 @@ const Navbar = () => {
                 {item}
               </button>
             ))}
+            {/* Add the external link for Journal in the mobile menu */}
+            <a
+              href="https://your-journal-link.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block w-full px-4 py-2 hover:bg-red-600 text-left"
+            >
+              Journal
+            </a>
           </div>
         )}
       </div>
