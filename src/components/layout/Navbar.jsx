@@ -67,7 +67,7 @@ const Navbar = () => {
             ))}
             {/* Add the external link for Journal in the mobile menu */}
             <a
-              href="https://your-journal-link.com"
+              href="https://communist-party-portal.vercel.app/directives"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full px-4 py-2 hover:bg-red-600 text-left"
