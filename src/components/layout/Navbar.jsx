@@ -45,7 +45,7 @@ const Navbar = () => {
               </button>
             ))}
             <a
-              href="https://https://workersjournal.vercel.app//"
+              href="https:https://workersjournal.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-3 py-2 hover:bg-red-600 rounded transition-colors uppercase"
@@ -67,7 +67,7 @@ const Navbar = () => {
               </button>
             ))}
             <a
-              href="https://https://workersjournal.vercel.app//directives"
+              href="https://workersjournal.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full px-4 py-2 hover:bg-red-600 text-left uppercase"
