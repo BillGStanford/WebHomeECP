@@ -8,7 +8,7 @@ const Hero = () => {
   };
 
   const goToPartyGazette = () => {
-    window.open('https://peoples-gazette.vercel.app/', '_blank'); // Replace with the actual link
+    window.open('https://thepeople-kappa.vercel.app/', '_blank'); // Replace with the actual link
   };
 
   return (
