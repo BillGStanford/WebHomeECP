@@ -53,7 +53,7 @@ const About = () => {
             prosperity are not ideals but the reality. We stand firm in our belief that a united people can transform 
             society and secure the future for all.
           </p>
-          <a href="https://docs.google.com/document/d/1bFBC0WhVWUNSbG5DAyG81Lmz-YPRo_Wqekq_mJmojSs/edit?usp=sharing" target="_blank" className="inline-block px-8 py-4 bg-yellow-500 text-red-800 font-bold text-lg uppercase rounded-xl hover:bg-yellow-400 transition-all duration-300 shadow-lg transform hover:scale-105">
+          <a href="https://forms.gle/hkCqaRhnUv8QqAp68" target="_blank" className="inline-block px-8 py-4 bg-yellow-500 text-red-800 font-bold text-lg uppercase rounded-xl hover:bg-yellow-400 transition-all duration-300 shadow-lg transform hover:scale-105">
             Join the Movement
           </a>
         </div>
